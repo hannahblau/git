@@ -1,4 +1,4 @@
 *.stderr
 *.stdout
-experiment_20.stdout
+!experiment_20.stdout
 
