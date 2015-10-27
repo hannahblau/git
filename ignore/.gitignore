@@ -1,3 +1,4 @@
-!experiment_20.stdout
 *.stderr
 *.stdout
+experiment_20.stdout
+
